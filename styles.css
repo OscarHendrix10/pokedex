@@ -1,0 +1,61 @@
+.pokedex{
+    height: 70%;
+    width: 70%;
+    z-index: 2; ;
+}
+
+h2.nombrepoke{
+    text-align: center;
+    font-size: 2em;
+    color: #000000;
+    z-index: 3;
+    position:absolute;
+    right:27em; 
+    top: 17em;
+}
+
+img.imagenpokemon{
+    width: 20%;
+    height: 20%;
+    z-index: 3;
+    position:absolute;
+    left:23em; 
+    top: 25em;
+}
+
+.altura{
+    font-size: 1.5em;
+    color: #fff;
+    z-index: 3;
+    position:absolute;
+    right:22em; 
+    top: 32em;
+}
+
+.peso{
+    font-size: 1.5em;
+    color: #fff;
+    z-index: 3;
+    position:absolute;
+    right:16em; 
+    top: 32em;
+}
+
+.tipo{
+    font-size: 1.5em;
+    color: #fff;
+    z-index: 3;
+    position:absolute;
+    right:20em; 
+    top: 19em;
+}
+
+.habilidad1{
+    font-size: 1.5em;
+    color: #fff;
+    z-index: 3;
+    position:absolute;
+    right:18em; 
+    top: 21em;
+}
+
